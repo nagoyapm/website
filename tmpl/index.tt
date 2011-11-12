@@ -4,32 +4,62 @@
 
 <div class="span-15 colborder">
     <h1>Nagoya.pm - 名古屋 Perl Mongers</h1>
+    
+    <p>Nagoya.pm と 名古屋でPerl をゆるく語る会 を開催しています</p>
 
-    <p>今のところ主な活動は ゆるく Perl を語る会 の開催です．</p>
-
+    <h2>Nagoya.pm</h2>
+    
     <ul>
-      <li>2010/11/20(土) 11:30〜15:00 <a href="http://atnd.org/events/9491">ゆるくPerl を語る会</a>やります</li>
-      <li>2010/10/30(土) 11:30〜15:00 <a href="http://atnd.org/events/8147">ゆるくPerl を語る会</a>やりました</li>
-      <li>2010/09/18(土) 11:30〜15:00 <a href="http://atnd.org/events/7492">ゆるくPerl を語る会</a>やりました</li>
-      <li>2010/08/22(日) 17:00〜15:00 <a href="http://atnd.org/events/6923">ゆるくPerl を語る会</a>やりました</li>
-      <li>2010/07/31(土) 11:00〜14:00 <a href="http://atnd.org/events/6593">ゆるくPerl を語る会</a>やりました</li>
+      <li>2011/11/20(日) 13:30〜17:00 <a href="http://bit.ly/nAIbPr">Nagoya.pm #02</a></li>
+      <li>2011/09/17(土) 13:00〜17:00 <a href="http://bit.ly/nOVzph">Nagoya.pm #01</a></li>
     </ul>
 
-    <ul>
-      <li>メーリングリストもあります - <a href="http://mail.pm.org/mailman/listinfo/nagoya-pm/">http://mail.pm.org/mailman/listinfo/nagoya-pm/</a></li>
-      <li>irc もあります #yuruperl@freenode</li>
-      <li>groogle group もあります - <a href="http://groups.google.co.jp/group/yuruperl-nagoya/">http://groups.google.co.jp/group/yuruperl-nagoya/</a></li>
-    </ul>
+    <h2>名古屋で Perl をゆるく語る会</h2>
 
-    <h2>リンク</h2>
     <ul>
-      <li><a href="https://groups.google.com/group/dstokai?hl=ja">DSTokai</a></li>
-    </ul>
+      <li>2011/10/22(土) 15:00〜17:00 <a href="http://bit.ly/rtKJZS">Perl をゆるく語る会 #15</a></li>
+      <li>2011/08/06(土) 15:00〜17:00 <a href="http://bit.ly/padRBe">Perl をゆるく語る会 #14</a></li>
+      <li>2011/07/09(土) 15:00〜17:00 <a href="http://bit.ly/lX2mI5">Perl をゆるく語る会 #13</a></li>
+      <li>2011/06/11(土) 15:00〜17:00 <a href="http://bit.ly/mkhmgp">Perl をゆるく語る会 #12</a></li>
+      <li>2011/05/21(土) 15:00〜17:00 <a href="http://bit.ly/hDG19q">Perl をゆるく語る会 #11</a></li>
+      <li>2011/04/23(土) 15:00〜      <a href="http://bit.ly/gKTEFc">Perl をゆるく語る会 #10</a></li>
+      <li>2011/03/19(土) 12:00〜15:00 <a href="http://bit.ly/fWHJWZ">Perl をゆるく語る会 #09</a></li>
+      <li>2011/02/12(土) 12:00〜      <a href="http://bit.ly/gr0thx">Perl をゆるく語る会 #08</a></li>
 
-    <a href="mailto:clairvy@gmail.com">clairvy@gmail.com</a>
+      <li>2010/11/20(土) 11:30〜15:00 <a href="http://atnd.org/events/9491">Perl をゆるく語る会</a></li>
+      <li>2010/10/30(土) 11:30〜15:00 <a href="http://atnd.org/events/8147">Perl をゆるく語る会</a></li>
+      <li>2010/09/18(土) 11:30〜15:00 <a href="http://atnd.org/events/7492">Perl をゆるく語る会</a></li>
+      <li>2010/08/22(日) 17:00〜15:00 <a href="http://atnd.org/events/6923">Perl をゆるく語る会</a></li>
+      <li>2010/07/31(土) 11:00〜14:00 <a href="http://atnd.org/events/6593">Perl をゆるく語る会</a></li>
+    </ul>
 
 </div>
 <div class="span-8 last">
+    <h2>Links</h2>
+    <h3>Nagoya.pm</h3>
+    <ul>
+      <li><a href="http://mail.pm.org/mailman/listinfo/nagoya-pm/">Nagoya.pm ML</a></li>
+      <li>irc : #nagoya.pm@freenode</li>
+      <li><a href="https://twitter.com/#!/search?q=%23nagoyapm">#nagoyapm</a></li>
+    </ul>
+
+    <h3>yuruperl</h3>
+    <ul>
+      <li><a href="http://groups.google.co.jp/group/yuruperl-nagoya/">yuruperl Google Group</a></li>
+      <li>irc : #yuruperl@freenode</li>
+      <li><a href="https://twitter.com/#!/search?q=%23yuruperl">#yuruperl</a></li>
+    </ul>
+
+    <h3>Other</h3>
+    <ul>
+      <li><a href="https://groups.google.com/group/dstokai?hl=ja">DSTokai</a></li>
+    </ul>
+    
+    <h3>Author</h3>
+    <ul>
+      <li><a href="mailto:clairvy@gmail.com">clairvy@gmail.com</a></li>
+      <li><a href="https://twitter.com/#!/clairvy">@clairvy</a></li>
+    </ul>
 </div>
 
 <hr class="space">
