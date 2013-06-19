@@ -10,4 +10,5 @@ $ brew install heroku-toolbelt
 $ git clone <nagoyapm repos>
 $ heroku git:remote
 $ heroku push heroku master
+$ heroku domain:add nagoya.pm.org
 </pre>
